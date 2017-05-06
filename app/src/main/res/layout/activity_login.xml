@@ -76,7 +76,7 @@
                 android:textStyle="bold" />
 
             <Button
-                android:id="@+id/egistrarse"
+                android:id="@+id/Registrarse"
                 style="?android:textAppearanceSmall"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
