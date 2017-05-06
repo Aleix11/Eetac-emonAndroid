@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="CampTextNegro" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#4c4c4c</item>
+        <item name="colorControlActivated">#4c4c4c</item>
+        <item name="android:textColorHighlight">#4c4c4c</item>
+    </style>
+
 </resources>

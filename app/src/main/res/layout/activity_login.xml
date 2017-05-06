@@ -65,7 +65,7 @@
             </android.support.design.widget.TextInputLayout>
 
             <Button
-                android:id="Entrar"
+                android:id="@+id/Entrar"
                 style="?android:textAppearanceSmall"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
@@ -75,7 +75,7 @@
                 android:textStyle="bold" />
 
             <Button
-                android:id="Registrarse"
+                android:id="@+id/egistrarse"
                 style="?android:textAppearanceSmall"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
